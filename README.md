@@ -2,6 +2,9 @@
 
 # ESP32-Grbl Controller
 
+This project is based on the project or bdring's [Grbl_ESP32_MPCNC_Controller](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/) with addition of 2 servo axis, which will be used in our wire bending project.
+This ReadMe file is mostly a copy of the original project. As we go we will adapt the content.
+
 ![ESP32-Grbl Controller Image](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc/render/ESP32-cnc-front.jpg)
 
 
@@ -30,11 +33,12 @@ Secondary X and Y axises can be used as servo outputs. This will be usefull for 
 - Spindle Control:
 - Fan Power: 
 - Micro SD card: 
+- X,Y,Z axis with double motor drivers for X and Y axis drive. These double axis can be disabled and converted to servo axis.
 
 ### Getting One
 
 ### Usage Instructions
-
+see original prject
 [See the wiki](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/wiki)
 
 ### License
