@@ -53,7 +53,7 @@ This project is a modification of Bart Drings ![Grbl_ESP32_MPCNC_Controller proj
 ### Source Files
 
 - [Firmware](https://github.com/bdring/Grbl_Esp32) to be updated to support servos.
-- [Kicad Source](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc/ESP32-cnc.pdf)
-- [Gerber Files](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc/Gerber)
-- [Schematic](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/blob/master/gerbers/schematic.pdf)
+- [Kicad Source](https://github.com/kavers1/wirebender/tree/master/Hardware/ESP32-cnc)
+- [Gerber Files](https://github.com/kavers1/wirebender/tree/master/Hardware/ESP32-cnc/gerber)
+- [Schematic](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc/ESP32-cnc.pdf)
 - [imported Kicad Models](https://github.com/kavers1/wirebender/tree/master/Hardware/Kicad_Libs)
