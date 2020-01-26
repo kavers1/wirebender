@@ -2,8 +2,7 @@
 
 # ESP32-Grbl Controller
 
-![MPCNC Controller Image](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/blob/master/images/v1p2p1_pcba.jpg)
-
+![ESP32-Grbl Controller Image](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc/ESP32-cnc.jpg)
 
 
 This is a CNC controller specially designed to address the needs of the [MPCNC (Mostly Printed CNC) CNC Router](https://www.v1engineering.com/specifications/).
@@ -53,7 +52,7 @@ This project is a modification of Bart Drings ![Grbl_ESP32_MPCNC_Controller proj
 
 ### Source Files
 
-- [Firmware](https://github.com/bdring/Grbl_Esp32)
-- [DipTrace Source](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/tree/master/source)
-- [Gerber Files](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/tree/master/gerbers)
+- [Firmware](https://github.com/bdring/Grbl_Esp32) to be updated to support servos.
+- [Kicad Source](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc/ESP32-cnc.pdf)
+- [Gerber Files](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc)
 - [Schematic](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/blob/master/gerbers/schematic.pdf)
