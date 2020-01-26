@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name MP1584EN)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/MP1584EN)(options "")(descr ""))
+  (lib (name ESP32-DEVKITC-32D)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/ESP32-DEVKITC-32D)(options "")(descr ""))
+  (lib (name Jumpers)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/Jumpers)(options "")(descr ""))
+  (lib (name A4988_STEPPER_MOTOR_DRIVER_CARRIER)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/A4988_STEPPER_MOTOR_DRIVER_CARRIER)(options "")(descr ""))
+  (lib (name TXS0102DCTR)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/TXS0102DCTR)(options "")(descr ""))
+  (lib (name SCHA5B0200)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/SCHA5B0200)(options "")(descr ""))
+)

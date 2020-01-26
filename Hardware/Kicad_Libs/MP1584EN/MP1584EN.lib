@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MP1584EN
+#
+DEF MP1584EN U 0 40 Y Y 1 L N
+F0 "U" -401 421 50 H V L BNN
+F1 "MP1584EN" -400 -501 50 H V L BNN
+F2 "SOIC127P600X170-9N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Monolithic Power Systems" 0 0 50 H I L BNN
+F5 "Unavailable" 0 0 50 H I L BNN
+F6 "None" 0 0 50 H I L BNN
+F7 "None" 0 0 50 H I L BNN
+F8 "MP1584EN" 0 0 50 H I L BNN
+F9 "IPC-7351B" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 400 400 400 N
+P 2 0 0 10 400 400 400 -400 N
+P 2 0 0 10 400 -400 -400 -400 N
+P 2 0 0 10 -400 -400 -400 400 N
+X SW 1 600 200 200 L 40 40 0 0 O 
+X EN 2 -600 0 200 R 40 40 0 0 I 
+X COMP 3 600 -100 200 L 40 40 0 0 O 
+X FB 4 600 100 200 L 40 40 0 0 I 
+X GND 5 600 -300 200 L 40 40 0 0 W 
+X GND 9 600 -300 200 L 40 40 0 0 W 
+X FREQ 6 -600 -200 200 R 40 40 0 0 I 
+X VIN 7 -600 200 200 R 40 40 0 0 I 
+X BST 8 600 300 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

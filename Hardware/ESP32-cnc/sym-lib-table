@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ESP32-DEVKITC-32D)(type Legacy)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.lib)(options "")(descr ""))
+  (lib (name MP1584EN)(type Legacy)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/MP1584EN/MP1584EN.lib)(options "")(descr ""))
+  (lib (name A4988_STEPPER_MOTOR_DRIVER_CARRIER)(type Legacy)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/A4988_STEPPER_MOTOR_DRIVER_CARRIER/A4988_STEPPER_MOTOR_DRIVER_CARRIER.lib)(options "")(descr ""))
+  (lib (name SCHA5B0200)(type Legacy)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/SCHA5B0200/SCHA5B0200.lib)(options "")(descr ""))
+)
