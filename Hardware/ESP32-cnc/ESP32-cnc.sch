@@ -483,7 +483,7 @@ L Connector_Generic:Conn_01x04 J8
 U 1 1 5E35611F
 P 6400 8300
 F 0 "J8" H 6480 8292 50  0000 L CNN
-F 1 "Enable Spindle" H 6480 8201 50  0000 L CNN
+F 1 "PWM Spindle (5V)" H 6480 8201 50  0000 L CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 6400 8300 50  0001 C CNN
 F 3 "~" H 6400 8300 50  0001 C CNN
 	1    6400 8300
