@@ -1,4 +1,4 @@
-175356196639986
+180103912405648
 502570-0893
 MOLEX_502570-0893
 
@@ -20523,6 +20523,13 @@ MODULE_ESP32-DEVKITC-32D
 0
 38
 38
+ESP32-DEVKITC-32D
+SW_DIP_x1_W5.08mm_Slide_Copal_CHS-A
+1x-dip-switch, Slide, row spacing 5.08 mm (200 mils), Copal_CHS-A
+DIP Switch Slide 5.08mm 200mil Copal_CHS-A
+0
+2
+2
 EuroBoard_Outline
 EuroBoard160mmX100mm
 
@@ -25850,6 +25857,13 @@ solder jumper open
 0
 5
 3
+Kicad_Libs
+CCBYSA40
+
+
+0
+0
+0
 LEDs
 LED-L1T2_LUMILEDS
 
@@ -27863,6 +27877,34 @@ NF-Transformers_ETAL
 NF-Transformer_P3356_ETAL
 
 
+0
+0
+0
+OPENHARDWARE
+OSHWLOGO0.3IN
+OSHW LOGO
+Open Source Hardware Logo
+0
+0
+0
+OPENHARDWARE
+OSHWLOGO0.75IN
+OSHW LOGO
+Open Source Hardware Logo
+0
+0
+0
+OPENHARDWARE
+OSHWLOGO1.5IN
+OSHW LOGO
+Open Source Hardware Logo
+0
+0
+0
+OPENHARDWARE
+OSHWLOGO3IN
+OSHW LOGO
+Open Source Hardware Logo
 0
 0
 0

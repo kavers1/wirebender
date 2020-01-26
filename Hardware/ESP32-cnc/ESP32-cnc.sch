@@ -2141,22 +2141,6 @@ Wire Wire Line
 Connection ~ 7350 5600
 Wire Wire Line
 	7350 5600 8050 5600
-$Comp
-L Jumper:SolderJumper_2_Bridged JP1
-U 1 1 5E2E7A8F
-P 8100 8250
-F 0 "JP1" H 8100 8455 50  0000 C CNN
-F 1 "SolderJumper_2_Bridged" H 8100 8364 50  0000 C CNN
-F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 8100 8250 50  0001 C CNN
-F 3 "~" H 8100 8250 50  0001 C CNN
-	1    8100 8250
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	8000 8250 7950 8250
-Wire Wire Line
-	7950 8250 7950 7350
-Connection ~ 7950 8250
 Connection ~ 8550 7350
 Wire Wire Line
 	8550 7350 8550 7200
@@ -2166,7 +2150,6 @@ Wire Wire Line
 	8200 8250 8250 8250
 Wire Wire Line
 	7950 7350 8550 7350
-Connection ~ 8250 8250
 Wire Wire Line
 	9000 850  9000 2000
 $Comp
@@ -2240,7 +2223,7 @@ L Jumper:SolderJumper_2_Bridged Z_MS1
 U 1 1 5E8F8339
 P 12800 6600
 F 0 "Z_MS1" H 12400 6600 50  0000 C CNN
-F 1 "X2_MS1" H 12800 6714 50  0001 C CNN
+F 1 "Z_MS1" H 12800 6714 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12800 6600 50  0001 C CNN
 F 3 "~" H 12800 6600 50  0001 C CNN
 	1    12800 6600
@@ -2255,7 +2238,7 @@ L Jumper:SolderJumper_2_Bridged Z_MS2
 U 1 1 5E8F8346
 P 12800 6700
 F 0 "Z_MS2" H 12400 6700 50  0000 C CNN
-F 1 "X2_MS2" H 12800 6814 50  0001 C CNN
+F 1 "Z_MS2" H 12800 6814 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12800 6700 50  0001 C CNN
 F 3 "~" H 12800 6700 50  0001 C CNN
 	1    12800 6700
@@ -2273,7 +2256,7 @@ L Jumper:SolderJumper_2_Bridged Z_MS3
 U 1 1 5E8F8354
 P 12800 6800
 F 0 "Z_MS3" H 12400 6800 50  0000 C CNN
-F 1 "X2_MS3" H 12800 6914 50  0001 C CNN
+F 1 "Z_MS3" H 12800 6914 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12800 6800 50  0001 C CNN
 F 3 "~" H 12800 6800 50  0001 C CNN
 	1    12800 6800
@@ -2287,7 +2270,7 @@ L Jumper:SolderJumper_2_Bridged Y2_MS1
 U 1 1 5E98D90C
 P 9150 4250
 F 0 "Y2_MS1" H 8750 4250 50  0000 C CNN
-F 1 "X2_MS1" H 9150 4364 50  0001 C CNN
+F 1 "Y2_MS1" H 9150 4364 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9150 4250 50  0001 C CNN
 F 3 "~" H 9150 4250 50  0001 C CNN
 	1    9150 4250
@@ -2302,7 +2285,7 @@ L Jumper:SolderJumper_2_Bridged Y2_MS2
 U 1 1 5E98D918
 P 9150 4350
 F 0 "Y2_MS2" H 8750 4350 50  0000 C CNN
-F 1 "X2_MS2" H 9150 4464 50  0001 C CNN
+F 1 "Y2_MS2" H 9150 4464 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9150 4350 50  0001 C CNN
 F 3 "~" H 9150 4350 50  0001 C CNN
 	1    9150 4350
@@ -2320,7 +2303,7 @@ L Jumper:SolderJumper_2_Bridged Y2_MS3
 U 1 1 5E98D926
 P 9150 4450
 F 0 "Y2_MS3" H 8750 4450 50  0000 C CNN
-F 1 "X2_MS3" H 9150 4564 50  0001 C CNN
+F 1 "Y2_MS3" H 9150 4564 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 9150 4450 50  0001 C CNN
 F 3 "~" H 9150 4450 50  0001 C CNN
 	1    9150 4450
@@ -2335,7 +2318,7 @@ L Jumper:SolderJumper_2_Bridged Y_MS1
 U 1 1 5EA5FE27
 P 12800 4350
 F 0 "Y_MS1" H 12400 4350 50  0000 C CNN
-F 1 "X2_MS1" H 12800 4464 50  0001 C CNN
+F 1 "Y_MS1" H 12800 4464 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12800 4350 50  0001 C CNN
 F 3 "~" H 12800 4350 50  0001 C CNN
 	1    12800 4350
@@ -2350,7 +2333,7 @@ L Jumper:SolderJumper_2_Bridged Y_MS2
 U 1 1 5EA5FE33
 P 12800 4450
 F 0 "Y_MS2" H 12400 4450 50  0000 C CNN
-F 1 "X2_MS2" H 12800 4564 50  0001 C CNN
+F 1 "Y_MS2" H 12800 4564 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12800 4450 50  0001 C CNN
 F 3 "~" H 12800 4450 50  0001 C CNN
 	1    12800 4450
@@ -2368,7 +2351,7 @@ L Jumper:SolderJumper_2_Bridged Y_MS3
 U 1 1 5EA5FE41
 P 12800 4550
 F 0 "Y_MS3" H 12400 4550 50  0000 C CNN
-F 1 "X2_MS3" H 12800 4664 50  0001 C CNN
+F 1 "Y_MS3" H 12800 4664 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12800 4550 50  0001 C CNN
 F 3 "~" H 12800 4550 50  0001 C CNN
 	1    12800 4550
@@ -2383,7 +2366,7 @@ L Jumper:SolderJumper_2_Bridged X_MS1
 U 1 1 5EA847E2
 P 12750 2000
 F 0 "X_MS1" H 12350 2000 50  0000 C CNN
-F 1 "X2_MS1" H 12750 2114 50  0001 C CNN
+F 1 "X_MS1" H 12750 2114 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12750 2000 50  0001 C CNN
 F 3 "~" H 12750 2000 50  0001 C CNN
 	1    12750 2000
@@ -2398,7 +2381,7 @@ L Jumper:SolderJumper_2_Bridged X_MS2
 U 1 1 5EA847EE
 P 12750 2100
 F 0 "X_MS2" H 12350 2100 50  0000 C CNN
-F 1 "X2_MS2" H 12750 2214 50  0001 C CNN
+F 1 "X_MS2" H 12750 2214 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12750 2100 50  0001 C CNN
 F 3 "~" H 12750 2100 50  0001 C CNN
 	1    12750 2100
@@ -2416,7 +2399,7 @@ L Jumper:SolderJumper_2_Bridged X_MS3
 U 1 1 5EA847FC
 P 12750 2200
 F 0 "X_MS3" H 12350 2200 50  0000 C CNN
-F 1 "X2_MS3" H 12750 2314 50  0001 C CNN
+F 1 "X_MS3" H 12750 2314 50  0001 C CNN
 F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 12750 2200 50  0001 C CNN
 F 3 "~" H 12750 2200 50  0001 C CNN
 	1    12750 2200
@@ -2427,4 +2410,65 @@ Wire Wire Line
 	12600 850  12600 2000
 Connection ~ 12600 850 
 Connection ~ 12650 5450
+Connection ~ 8250 8250
+Connection ~ 7950 8250
+Wire Wire Line
+	7950 8250 7950 7350
+Wire Wire Line
+	8000 8250 7950 8250
+$Comp
+L Jumper:SolderJumper_2_Bridged Enable_Servos1
+U 1 1 5E2E7A8F
+P 8100 8250
+F 0 "Enable_Servos1" H 7650 8250 50  0000 C CNN
+F 1 "Enable_Servos" H 7900 8150 50  0001 C CNN
+F 2 "Jumpers:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm" H 8100 8250 50  0001 C CNN
+F 3 "~" H 8100 8250 50  0001 C CNN
+	1    8100 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:Logo_Open_Hardware_Large LOGO1
+U 1 1 5E370774
+P 11050 10550
+F 0 "LOGO1" H 11516 10600 50  0000 L CNN
+F 1 "Logo_Open_Hardware_Large" H 11050 10150 50  0001 C CNN
+F 2 "Symbols:OSHW-Symbol_22.3x20mm_SilkScreen" H 11050 11067 50  0001 C CNN
+F 3 "~" H 11050 10550 50  0001 C CNN
+	1    11050 10550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:SYM_Flash_Small SYM1
+U 1 1 5E371D74
+P 14500 9350
+F 0 "SYM1" V 14410 9350 50  0001 C CNN
+F 1 "SYM_Flash_Small" V 14590 9350 50  0001 C CNN
+F 2 "Symbols:Symbol_HighVoltage_Type2_CopperTop_VerySmall" H 14500 9325 50  0001 C CNN
+F 3 "~" H 14900 9250 50  0001 C CNN
+	1    14500 9350
+	1    0    0    -1  
+$EndComp
+$Comp
+L MyGraphic:SYM_CC_BY LOGO2
+U 1 1 5E3C9D0D
+P 11050 11000
+F 0 "LOGO2" H 11060 11107 50  0000 C CNN
+F 1 "SYM_CC_BY" H 11060 11107 50  0001 C CNN
+F 2 "Symbols:Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small" H 11050 11000 50  0001 C CNN
+F 3 "" H 11050 11000 50  0001 C CNN
+	1    11050 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L MyGraphic:SYM_CC_BY LOGO3
+U 1 1 5E3FA9CE
+P 10450 11000
+F 0 "LOGO3" H 10460 11107 50  0000 C CNN
+F 1 "SYM_CC_BY" H 10460 11107 50  0001 C CNN
+F 2 "Symbols:Symbol_CC-Attribution_CopperTop_Small" H 10450 11000 50  0001 C CNN
+F 3 "" H 10450 11000 50  0001 C CNN
+	1    10450 11000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

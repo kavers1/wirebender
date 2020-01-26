@@ -5,4 +5,6 @@
   (lib (name A4988_STEPPER_MOTOR_DRIVER_CARRIER)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/A4988_STEPPER_MOTOR_DRIVER_CARRIER)(options "")(descr ""))
   (lib (name TXS0102DCTR)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/TXS0102DCTR)(options "")(descr ""))
   (lib (name SCHA5B0200)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/SCHA5B0200)(options "")(descr ""))
+  (lib (name OPENHARDWARE)(type Legacy)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs/Open-Source-Hardware-Logos-for-Kicad-master/OPENHARDWARE.mod)(options "")(descr ""))
+  (lib (name Kicad_Libs)(type KiCad)(uri C:/Users/koen/Documents/GitHub/wirebender/Hardware/Kicad_Libs)(options "")(descr ""))
 )
