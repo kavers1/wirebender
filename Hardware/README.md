@@ -1,20 +1,8 @@
 # Wirebender
 
-This project will build a wire bender
-
-3D designs are shared in STL format. 
-The 3D model is available as a Fusion 360 project [Wire bender](https://myhub.autodesk360.com/ue2954c30/g/projects/20200113254731651/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uQzlzSklFZG9SLW1GWHdSQ3duYzF3QQ)
-
-inspiration can be found in 
-  - [LiveWire](https://www.thingiverse.com/thing:1786839)
-  - [Precise Wire Bending Machine](https://hackaday.io/project/166369-precise-wire-bending-machine)
-  - [DIY-wire-bender](https://hackaday.com/2018/10/14/diy-wire-bender-gets-wires-all-bent-into-shape/)
-
-The aim of the project is to combine best of both world and come up with a precise 3D wire bender.
-
 ## ESP32-Grbl Controller
 
-This part of the project is based on the project or bdring's [Grbl_ESP32_MPCNC_Controller](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/) with addition of 2 servo axis, which will be used in our wire bending project.
+This project is based on the project or bdring's [Grbl_ESP32_MPCNC_Controller](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/) with addition of 2 servo axis, which will be used in our wire bending project.
 This ReadMe file is mostly a copy of the original project. As we go we will adapt the content.
 
 ![ESP32-Grbl Controller Image](https://github.com/kavers1/wirebender/blob/master/Hardware/ESP32-cnc/render/ESP32-cnc-front.jpg)
@@ -52,7 +40,7 @@ Secondary X and Y axises can be used as servo outputs. This will be usefull for 
 To our inspiration [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32)
 
 ### Usage Instructions
-see original prject
+see original project
 [See the wiki](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/wiki)
 
 ### License
