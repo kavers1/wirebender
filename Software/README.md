@@ -38,7 +38,7 @@ Secondary X and Y axises can be used as servo outputs. This will be usefull for 
 ### Usage Instructions
 see original project
 [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32) and 
-[grbl_ESP32_WIKI] (https://github.com/bdring/Grbl_Esp32/wiki)
+[grbl_ESP32_WIKI](https://github.com/bdring/Grbl_Esp32/wiki)
 
 ### License
 
