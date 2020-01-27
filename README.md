@@ -52,7 +52,7 @@ Secondary X and Y axises can be used as servo outputs. This will be usefull for 
 To our inspiration [Grbl_ESP32](https://github.com/bdring/Grbl_Esp32)
 
 ### Usage Instructions
-see original prject
+see original project
 [See the wiki](https://github.com/bdring/Grbl_ESP32_MPCNC_Controller/wiki)
 
 ### License
